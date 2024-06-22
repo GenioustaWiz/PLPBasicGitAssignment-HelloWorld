@@ -1,0 +1,1 @@
+This is a Simple hello world Assignment to showcase my understanding of Git and GitHub.
